@@ -16,4 +16,4 @@ after refactoring the program the macro ran much faster:
 ![](https://github.com/l-javier-garcia/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary
-
+Refactoring the macros helped a ton in the optimization process of this challenge. If we hadn't done this to run the macros would've taken about 30 minutes to complete. 
