@@ -11,5 +11,9 @@ The macro in essence works the following way: a pop up comes up asking which yea
 ![](https://github.com/l-javier-garcia/new-repo/blob/main/popup.png)
 
 after refactoring the program the macro ran much faster:
+
 ![](https://github.com/l-javier-garcia/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![](https://github.com/l-javier-garcia/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+## Summary
 
